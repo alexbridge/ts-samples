@@ -1,0 +1,2 @@
+### GET echo name parameter
+GET http://localhost:3000/echo HTTP/1.1
